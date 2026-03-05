@@ -1,5 +1,5 @@
 /*
-Project: Analyzing a Downtrending Department and Proposing a Solution
+Project: Reversing a Declining Department
 Objective: To perform a diagnostic analysis of a 1.6M revenue decline and model the ROI of potential solutions.
 Dialect: SQLite
 
