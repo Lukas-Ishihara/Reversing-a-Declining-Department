@@ -1,6 +1,6 @@
 /*
 Project: Reversing a Declining Department
-Objective: To perform a diagnostic analysis of a 1.6M revenue decline and model the ROI of potential solutions.
+Objective: To perform a diagnostic analysis of a 1.6M monthly revenue decline and model the ROI of potential solutions.
 Dialect: SQLite
 
 Query 1: Trend Analysis
@@ -1103,4 +1103,5 @@ A meaningful rewards program needed to target the whales of gambling or the mass
 ===== Business Recommendation: =====
 Reject the proposed reward program, the proposed reward system currently attracts 1-2 users in a pool of thousands; This is not feasible reward system. Instead, focus
 on the VIP role reward implemented by the engineer via automation of the business's bot.
+
 */
