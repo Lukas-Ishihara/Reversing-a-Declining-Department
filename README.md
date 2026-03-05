@@ -1,4 +1,4 @@
-# _**Click image to view full slide deck (7 Slides)**_
+# _**Click below to view full slide deck (8 Slides)**_
 [Click to view full PDF](Lukas_Ishihara_Reversing_a_Declining_Department.pdf)  
 
 # Reversing a Declining Department
